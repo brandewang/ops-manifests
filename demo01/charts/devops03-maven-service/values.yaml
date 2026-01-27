@@ -1,4 +1,4 @@
-replicaCount: 1
+replicaCount: 3
 image:
   repository: 192.168.5.85:8801/devops/devops03-maven-service
   pullPolicy: IfNotPresent
