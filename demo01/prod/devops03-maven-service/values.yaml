@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: 192.168.5.85:8801/devops/devops03-maven-service
   pullPolicy: IfNotPresent
-  tag: "main-45fac7b6"
+  tag: "main-ca19a228"
 imagePullSecrets:
   - name: regcred
 nameOverride: ""
